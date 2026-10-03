@@ -1,0 +1,152 @@
+{
+  "language": "fr",
+  "category": "Category:French pronunciation",
+  "verified": [
+    {
+      "title": "File:A french.wav",
+      "pageid": 99367547,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/A_french.wav",
+      "mime": "audio/wav",
+      "size": 48154,
+      "ping": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/A_french.wav",
+        "title": "File:A french.wav",
+        "ok": true,
+        "checks": [
+          {
+            "endpoint": "commons_api_imageinfo",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/A_french.wav",
+            "error": null
+          },
+          {
+            "endpoint": "commons_rest_file",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/A_french.wav",
+            "error": null
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "title": "File:A2-french.wav",
+      "pageid": 99361607,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/A2-french.wav",
+      "mime": "audio/wav",
+      "size": 38402,
+      "ping": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/A2-french.wav",
+        "title": "File:A2-french.wav",
+        "ok": true,
+        "checks": [
+          {
+            "endpoint": "commons_api_imageinfo",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/A2-french.wav",
+            "error": null
+          },
+          {
+            "endpoint": "commons_rest_file",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/A2-french.wav",
+            "error": null
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "title": "File:Fr-abattement.ogg",
+      "pageid": 3043821,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Fr-abattement.ogg",
+      "mime": "application/ogg",
+      "size": 15085,
+      "ping": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Fr-abattement.ogg",
+        "title": "File:Fr-abattement.ogg",
+        "ok": true,
+        "checks": [
+          {
+            "endpoint": "commons_api_imageinfo",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Fr-abattement.ogg",
+            "error": null
+          },
+          {
+            "endpoint": "commons_rest_file",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Fr-abattement.ogg",
+            "error": null
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "title": "File:Fr-abat‐jour.ogg",
+      "pageid": 3047167,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Fr-abat%E2%80%90jour.ogg",
+      "mime": "application/ogg",
+      "size": 16097,
+      "ping": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Fr-abat%E2%80%90jour.ogg",
+        "title": "File:Fr-abat‐jour.ogg",
+        "ok": true,
+        "checks": [
+          {
+            "endpoint": "commons_api_imageinfo",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Fr-abat%E2%80%90jour.ogg",
+            "error": null
+          },
+          {
+            "endpoint": "commons_rest_file",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Fr-abat%E2%80%90jour.ogg",
+            "error": null
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "title": "File:Fr-abbesse.ogg",
+      "pageid": 3042712,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Fr-abbesse.ogg",
+      "mime": "application/ogg",
+      "size": 14970,
+      "ping": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Fr-abbesse.ogg",
+        "title": "File:Fr-abbesse.ogg",
+        "ok": true,
+        "checks": [
+          {
+            "endpoint": "commons_api_imageinfo",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Fr-abbesse.ogg",
+            "error": null
+          },
+          {
+            "endpoint": "commons_rest_file",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Fr-abbesse.ogg",
+            "error": null
+          }
+        ],
+        "error": null
+      }
+    }
+  ],
+  "failed": []
+}

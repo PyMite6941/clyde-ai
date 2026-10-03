@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "created": "2026-10-03T03:37:33",
+  "last_run": null,
+  "runs": [],
+  "current_run": null,
+  "settings": {
+    "default_track": "A",
+    "default_steps": 300,
+    "default_pack": "english"
+  }
+}

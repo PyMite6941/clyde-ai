@@ -1,0 +1,152 @@
+{
+  "language": "de",
+  "category": "Category:German pronunciation",
+  "verified": [
+    {
+      "title": "File:De-Aach.ogg",
+      "pageid": 98976454,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/De-Aach.ogg",
+      "mime": "application/ogg",
+      "size": 9488,
+      "ping": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/De-Aach.ogg",
+        "title": "File:De-Aach.ogg",
+        "ok": true,
+        "checks": [
+          {
+            "endpoint": "commons_api_imageinfo",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/De-Aach.ogg",
+            "error": null
+          },
+          {
+            "endpoint": "commons_rest_file",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/De-Aach.ogg",
+            "error": null
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "title": "File:De-Abbink.ogg",
+      "pageid": 98647278,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/De-Abbink.ogg",
+      "mime": "application/ogg",
+      "size": 8112,
+      "ping": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/De-Abbink.ogg",
+        "title": "File:De-Abbink.ogg",
+        "ok": true,
+        "checks": [
+          {
+            "endpoint": "commons_api_imageinfo",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/De-Abbink.ogg",
+            "error": null
+          },
+          {
+            "endpoint": "commons_rest_file",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/De-Abbink.ogg",
+            "error": null
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "title": "File:Affe haarloser.wav",
+      "pageid": 98974944,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Affe_haarloser.wav",
+      "mime": "audio/wav",
+      "size": 108606,
+      "ping": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Affe_haarloser.wav",
+        "title": "File:Affe haarloser.wav",
+        "ok": true,
+        "checks": [
+          {
+            "endpoint": "commons_api_imageinfo",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Affe_haarloser.wav",
+            "error": null
+          },
+          {
+            "endpoint": "commons_rest_file",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Affe_haarloser.wav",
+            "error": null
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "title": "File:Anja Jazeschann spricht \"Leider zu spät\".ogg",
+      "pageid": 64827413,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Anja_Jazeschann_spricht_%22Leider_zu_sp%C3%A4t%22.ogg",
+      "mime": "application/ogg",
+      "size": 98442,
+      "ping": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Anja_Jazeschann_spricht_%22Leider_zu_sp%C3%A4t%22.ogg",
+        "title": "File:Anja Jazeschann spricht \"Leider zu spät\".ogg",
+        "ok": true,
+        "checks": [
+          {
+            "endpoint": "commons_api_imageinfo",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Anja_Jazeschann_spricht_%22Leider_zu_sp%C3%A4t%22.ogg",
+            "error": null
+          },
+          {
+            "endpoint": "commons_rest_file",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Anja_Jazeschann_spricht_%22Leider_zu_sp%C3%A4t%22.ogg",
+            "error": null
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "title": "File:Aussprache Großvenediger Woe 21-06-2020.wav",
+      "pageid": 91427991,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Aussprache_Gro%C3%9Fvenediger_Woe_21-06-2020.wav",
+      "mime": "audio/wav",
+      "size": 114751,
+      "ping": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Aussprache_Gro%C3%9Fvenediger_Woe_21-06-2020.wav",
+        "title": "File:Aussprache Großvenediger Woe 21-06-2020.wav",
+        "ok": true,
+        "checks": [
+          {
+            "endpoint": "commons_api_imageinfo",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Aussprache_Gro%C3%9Fvenediger_Woe_21-06-2020.wav",
+            "error": null
+          },
+          {
+            "endpoint": "commons_rest_file",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Aussprache_Gro%C3%9Fvenediger_Woe_21-06-2020.wav",
+            "error": null
+          }
+        ],
+        "error": null
+      }
+    }
+  ],
+  "failed": []
+}

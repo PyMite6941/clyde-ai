@@ -1,0 +1,937 @@
+{
+  "source": "wikimedia_commons",
+  "kind": "language_pronunciation_media",
+  "scraped_info": false,
+  "cdn_ping": false,
+  "languages": {
+    "en": {
+      "category": "Category:English pronunciation",
+      "manifest_path": "data/language/wikipedia_media/en/manifest.json",
+      "verified_count": 5,
+      "failed_count": 0,
+      "verified": [
+        {
+          "title": "File:\"Gyro\" proscribed pronunciation.wav",
+          "pageid": 37293027,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/%22Gyro%22_proscribed_pronunciation.wav",
+          "mime": "audio/wav",
+          "size": 323630,
+          "ping": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/%22Gyro%22_proscribed_pronunciation.wav",
+            "title": "File:\"Gyro\" proscribed pronunciation.wav",
+            "ok": true,
+            "checks": [
+              {
+                "endpoint": "commons_api_imageinfo",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/%22Gyro%22_proscribed_pronunciation.wav",
+                "error": null
+              },
+              {
+                "endpoint": "commons_rest_file",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/%22Gyro%22_proscribed_pronunciation.wav",
+                "error": null
+              }
+            ],
+            "error": null
+          }
+        },
+        {
+          "title": "File:3thereweresomesAmEng.wav",
+          "pageid": 147837121,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/3thereweresomesAmEng.wav",
+          "mime": "audio/wav",
+          "size": 731216,
+          "ping": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/3thereweresomesAmEng.wav",
+            "title": "File:3thereweresomesAmEng.wav",
+            "ok": true,
+            "checks": [
+              {
+                "endpoint": "commons_api_imageinfo",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/3thereweresomesAmEng.wav",
+                "error": null
+              },
+              {
+                "endpoint": "commons_rest_file",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/3thereweresomesAmEng.wav",
+                "error": null
+              }
+            ],
+            "error": null
+          }
+        },
+        {
+          "title": "File:A boy2.ogg",
+          "pageid": 11152068,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/A_boy2.ogg",
+          "mime": "application/ogg",
+          "size": 24221,
+          "ping": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/A_boy2.ogg",
+            "title": "File:A boy2.ogg",
+            "ok": true,
+            "checks": [
+              {
+                "endpoint": "commons_api_imageinfo",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/A_boy2.ogg",
+                "error": null
+              },
+              {
+                "endpoint": "commons_rest_file",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/A_boy2.ogg",
+                "error": null
+              }
+            ],
+            "error": null
+          }
+        },
+        {
+          "title": "File:En-us-a rolling stone gathers no moss.ogg",
+          "pageid": 120258083,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/En-us-a_rolling_stone_gathers_no_moss.ogg",
+          "mime": "application/ogg",
+          "size": 62516,
+          "ping": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/En-us-a_rolling_stone_gathers_no_moss.ogg",
+            "title": "File:En-us-a rolling stone gathers no moss.ogg",
+            "ok": true,
+            "checks": [
+              {
+                "endpoint": "commons_api_imageinfo",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/En-us-a_rolling_stone_gathers_no_moss.ogg",
+                "error": null
+              },
+              {
+                "endpoint": "commons_rest_file",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/En-us-a_rolling_stone_gathers_no_moss.ogg",
+                "error": null
+              }
+            ],
+            "error": null
+          }
+        },
+        {
+          "title": "File:A Type of Amigo.ogg",
+          "pageid": 155309177,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/A_Type_of_Amigo.ogg",
+          "mime": "application/ogg",
+          "size": 10323,
+          "ping": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/A_Type_of_Amigo.ogg",
+            "title": "File:A Type of Amigo.ogg",
+            "ok": true,
+            "checks": [
+              {
+                "endpoint": "commons_api_imageinfo",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/A_Type_of_Amigo.ogg",
+                "error": null
+              },
+              {
+                "endpoint": "commons_rest_file",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/A_Type_of_Amigo.ogg",
+                "error": null
+              }
+            ],
+            "error": null
+          }
+        }
+      ],
+      "failed": []
+    },
+    "es": {
+      "category": "Category:Spanish pronunciation",
+      "manifest_path": "data/language/wikipedia_media/es/manifest.json",
+      "verified_count": 5,
+      "failed_count": 0,
+      "verified": [
+        {
+          "title": "File:(spa)-Saviourofthe-a posteriori.flac",
+          "pageid": 164982910,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/%28spa%29-Saviourofthe-a_posteriori.flac",
+          "mime": "audio/flac",
+          "size": 135160,
+          "ping": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/%28spa%29-Saviourofthe-a_posteriori.flac",
+            "title": "File:(spa)-Saviourofthe-a posteriori.flac",
+            "ok": true,
+            "checks": [
+              {
+                "endpoint": "commons_api_imageinfo",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/%28spa%29-Saviourofthe-a_posteriori.flac",
+                "error": null
+              },
+              {
+                "endpoint": "commons_rest_file",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/%28spa%29-Saviourofthe-a_posteriori.flac",
+                "error": null
+              }
+            ],
+            "error": null
+          }
+        },
+        {
+          "title": "File:(spa)-Saviourofthe-a priori.flac",
+          "pageid": 164982921,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/%28spa%29-Saviourofthe-a_priori.flac",
+          "mime": "audio/flac",
+          "size": 87615,
+          "ping": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/%28spa%29-Saviourofthe-a_priori.flac",
+            "title": "File:(spa)-Saviourofthe-a priori.flac",
+            "ok": true,
+            "checks": [
+              {
+                "endpoint": "commons_api_imageinfo",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/%28spa%29-Saviourofthe-a_priori.flac",
+                "error": null
+              },
+              {
+                "endpoint": "commons_rest_file",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/%28spa%29-Saviourofthe-a_priori.flac",
+                "error": null
+              }
+            ],
+            "error": null
+          }
+        },
+        {
+          "title": "File:(spa)-Saviourofthe-a ultranza.flac",
+          "pageid": 165074115,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/%28spa%29-Saviourofthe-a_ultranza.flac",
+          "mime": "audio/flac",
+          "size": 112925,
+          "ping": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/%28spa%29-Saviourofthe-a_ultranza.flac",
+            "title": "File:(spa)-Saviourofthe-a ultranza.flac",
+            "ok": true,
+            "checks": [
+              {
+                "endpoint": "commons_api_imageinfo",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/%28spa%29-Saviourofthe-a_ultranza.flac",
+                "error": null
+              },
+              {
+                "endpoint": "commons_rest_file",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/%28spa%29-Saviourofthe-a_ultranza.flac",
+                "error": null
+              }
+            ],
+            "error": null
+          }
+        },
+        {
+          "title": "File:(spa)-Saviourofthe-ab ovo.flac",
+          "pageid": 164982920,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/%28spa%29-Saviourofthe-ab_ovo.flac",
+          "mime": "audio/flac",
+          "size": 93631,
+          "ping": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/%28spa%29-Saviourofthe-ab_ovo.flac",
+            "title": "File:(spa)-Saviourofthe-ab ovo.flac",
+            "ok": true,
+            "checks": [
+              {
+                "endpoint": "commons_api_imageinfo",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/%28spa%29-Saviourofthe-ab_ovo.flac",
+                "error": null
+              },
+              {
+                "endpoint": "commons_rest_file",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/%28spa%29-Saviourofthe-ab_ovo.flac",
+                "error": null
+              }
+            ],
+            "error": null
+          }
+        },
+        {
+          "title": "File:(spa)-Saviourofthe-ad hoc.flac",
+          "pageid": 164982923,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/%28spa%29-Saviourofthe-ad_hoc.flac",
+          "mime": "audio/flac",
+          "size": 86599,
+          "ping": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/%28spa%29-Saviourofthe-ad_hoc.flac",
+            "title": "File:(spa)-Saviourofthe-ad hoc.flac",
+            "ok": true,
+            "checks": [
+              {
+                "endpoint": "commons_api_imageinfo",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/%28spa%29-Saviourofthe-ad_hoc.flac",
+                "error": null
+              },
+              {
+                "endpoint": "commons_rest_file",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/%28spa%29-Saviourofthe-ad_hoc.flac",
+                "error": null
+              }
+            ],
+            "error": null
+          }
+        }
+      ],
+      "failed": []
+    },
+    "fr": {
+      "category": "Category:French pronunciation",
+      "manifest_path": "data/language/wikipedia_media/fr/manifest.json",
+      "verified_count": 5,
+      "failed_count": 0,
+      "verified": [
+        {
+          "title": "File:A french.wav",
+          "pageid": 99367547,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/A_french.wav",
+          "mime": "audio/wav",
+          "size": 48154,
+          "ping": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/A_french.wav",
+            "title": "File:A french.wav",
+            "ok": true,
+            "checks": [
+              {
+                "endpoint": "commons_api_imageinfo",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/A_french.wav",
+                "error": null
+              },
+              {
+                "endpoint": "commons_rest_file",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/A_french.wav",
+                "error": null
+              }
+            ],
+            "error": null
+          }
+        },
+        {
+          "title": "File:A2-french.wav",
+          "pageid": 99361607,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/A2-french.wav",
+          "mime": "audio/wav",
+          "size": 38402,
+          "ping": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/A2-french.wav",
+            "title": "File:A2-french.wav",
+            "ok": true,
+            "checks": [
+              {
+                "endpoint": "commons_api_imageinfo",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/A2-french.wav",
+                "error": null
+              },
+              {
+                "endpoint": "commons_rest_file",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/A2-french.wav",
+                "error": null
+              }
+            ],
+            "error": null
+          }
+        },
+        {
+          "title": "File:Fr-abattement.ogg",
+          "pageid": 3043821,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Fr-abattement.ogg",
+          "mime": "application/ogg",
+          "size": 15085,
+          "ping": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Fr-abattement.ogg",
+            "title": "File:Fr-abattement.ogg",
+            "ok": true,
+            "checks": [
+              {
+                "endpoint": "commons_api_imageinfo",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Fr-abattement.ogg",
+                "error": null
+              },
+              {
+                "endpoint": "commons_rest_file",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Fr-abattement.ogg",
+                "error": null
+              }
+            ],
+            "error": null
+          }
+        },
+        {
+          "title": "File:Fr-abat‐jour.ogg",
+          "pageid": 3047167,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Fr-abat%E2%80%90jour.ogg",
+          "mime": "application/ogg",
+          "size": 16097,
+          "ping": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Fr-abat%E2%80%90jour.ogg",
+            "title": "File:Fr-abat‐jour.ogg",
+            "ok": true,
+            "checks": [
+              {
+                "endpoint": "commons_api_imageinfo",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Fr-abat%E2%80%90jour.ogg",
+                "error": null
+              },
+              {
+                "endpoint": "commons_rest_file",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Fr-abat%E2%80%90jour.ogg",
+                "error": null
+              }
+            ],
+            "error": null
+          }
+        },
+        {
+          "title": "File:Fr-abbesse.ogg",
+          "pageid": 3042712,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Fr-abbesse.ogg",
+          "mime": "application/ogg",
+          "size": 14970,
+          "ping": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Fr-abbesse.ogg",
+            "title": "File:Fr-abbesse.ogg",
+            "ok": true,
+            "checks": [
+              {
+                "endpoint": "commons_api_imageinfo",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Fr-abbesse.ogg",
+                "error": null
+              },
+              {
+                "endpoint": "commons_rest_file",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Fr-abbesse.ogg",
+                "error": null
+              }
+            ],
+            "error": null
+          }
+        }
+      ],
+      "failed": []
+    },
+    "de": {
+      "category": "Category:German pronunciation",
+      "manifest_path": "data/language/wikipedia_media/de/manifest.json",
+      "verified_count": 5,
+      "failed_count": 0,
+      "verified": [
+        {
+          "title": "File:De-Aach.ogg",
+          "pageid": 98976454,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/De-Aach.ogg",
+          "mime": "application/ogg",
+          "size": 9488,
+          "ping": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/De-Aach.ogg",
+            "title": "File:De-Aach.ogg",
+            "ok": true,
+            "checks": [
+              {
+                "endpoint": "commons_api_imageinfo",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/De-Aach.ogg",
+                "error": null
+              },
+              {
+                "endpoint": "commons_rest_file",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/De-Aach.ogg",
+                "error": null
+              }
+            ],
+            "error": null
+          }
+        },
+        {
+          "title": "File:De-Abbink.ogg",
+          "pageid": 98647278,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/De-Abbink.ogg",
+          "mime": "application/ogg",
+          "size": 8112,
+          "ping": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/De-Abbink.ogg",
+            "title": "File:De-Abbink.ogg",
+            "ok": true,
+            "checks": [
+              {
+                "endpoint": "commons_api_imageinfo",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/De-Abbink.ogg",
+                "error": null
+              },
+              {
+                "endpoint": "commons_rest_file",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/De-Abbink.ogg",
+                "error": null
+              }
+            ],
+            "error": null
+          }
+        },
+        {
+          "title": "File:Affe haarloser.wav",
+          "pageid": 98974944,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Affe_haarloser.wav",
+          "mime": "audio/wav",
+          "size": 108606,
+          "ping": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Affe_haarloser.wav",
+            "title": "File:Affe haarloser.wav",
+            "ok": true,
+            "checks": [
+              {
+                "endpoint": "commons_api_imageinfo",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Affe_haarloser.wav",
+                "error": null
+              },
+              {
+                "endpoint": "commons_rest_file",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Affe_haarloser.wav",
+                "error": null
+              }
+            ],
+            "error": null
+          }
+        },
+        {
+          "title": "File:Anja Jazeschann spricht \"Leider zu spät\".ogg",
+          "pageid": 64827413,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Anja_Jazeschann_spricht_%22Leider_zu_sp%C3%A4t%22.ogg",
+          "mime": "application/ogg",
+          "size": 98442,
+          "ping": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Anja_Jazeschann_spricht_%22Leider_zu_sp%C3%A4t%22.ogg",
+            "title": "File:Anja Jazeschann spricht \"Leider zu spät\".ogg",
+            "ok": true,
+            "checks": [
+              {
+                "endpoint": "commons_api_imageinfo",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Anja_Jazeschann_spricht_%22Leider_zu_sp%C3%A4t%22.ogg",
+                "error": null
+              },
+              {
+                "endpoint": "commons_rest_file",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Anja_Jazeschann_spricht_%22Leider_zu_sp%C3%A4t%22.ogg",
+                "error": null
+              }
+            ],
+            "error": null
+          }
+        },
+        {
+          "title": "File:Aussprache Großvenediger Woe 21-06-2020.wav",
+          "pageid": 91427991,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Aussprache_Gro%C3%9Fvenediger_Woe_21-06-2020.wav",
+          "mime": "audio/wav",
+          "size": 114751,
+          "ping": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Aussprache_Gro%C3%9Fvenediger_Woe_21-06-2020.wav",
+            "title": "File:Aussprache Großvenediger Woe 21-06-2020.wav",
+            "ok": true,
+            "checks": [
+              {
+                "endpoint": "commons_api_imageinfo",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Aussprache_Gro%C3%9Fvenediger_Woe_21-06-2020.wav",
+                "error": null
+              },
+              {
+                "endpoint": "commons_rest_file",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Aussprache_Gro%C3%9Fvenediger_Woe_21-06-2020.wav",
+                "error": null
+              }
+            ],
+            "error": null
+          }
+        }
+      ],
+      "failed": []
+    },
+    "zh": {
+      "category": "Category:Chinese pronunciation",
+      "manifest_path": "data/language/wikipedia_media/zh/manifest.json",
+      "verified_count": 5,
+      "failed_count": 0,
+      "verified": [
+        {
+          "title": "File:Zh-a.ogg",
+          "pageid": 3053600,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Zh-a.ogg",
+          "mime": "application/ogg",
+          "size": 12549,
+          "ping": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Zh-a.ogg",
+            "title": "File:Zh-a.ogg",
+            "ok": true,
+            "checks": [
+              {
+                "endpoint": "commons_api_imageinfo",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Zh-a.ogg",
+                "error": null
+              },
+              {
+                "endpoint": "commons_rest_file",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Zh-a.ogg",
+                "error": null
+              }
+            ],
+            "error": null
+          }
+        },
+        {
+          "title": "File:A1ke4su1.ogg",
+          "pageid": 23891843,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/A1ke4su1.ogg",
+          "mime": "application/ogg",
+          "size": 44931,
+          "ping": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/A1ke4su1.ogg",
+            "title": "File:A1ke4su1.ogg",
+            "ok": true,
+            "checks": [
+              {
+                "endpoint": "commons_api_imageinfo",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/A1ke4su1.ogg",
+                "error": null
+              },
+              {
+                "endpoint": "commons_rest_file",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/A1ke4su1.ogg",
+                "error": null
+              }
+            ],
+            "error": null
+          }
+        },
+        {
+          "title": "File:Zh-an1.ogg",
+          "pageid": 740302,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Zh-an1.ogg",
+          "mime": "application/ogg",
+          "size": 12392,
+          "ping": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Zh-an1.ogg",
+            "title": "File:Zh-an1.ogg",
+            "ok": true,
+            "checks": [
+              {
+                "endpoint": "commons_api_imageinfo",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Zh-an1.ogg",
+                "error": null
+              },
+              {
+                "endpoint": "commons_rest_file",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Zh-an1.ogg",
+                "error": null
+              }
+            ],
+            "error": null
+          }
+        },
+        {
+          "title": "File:An1ji2.ogg",
+          "pageid": 23891845,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/An1ji2.ogg",
+          "mime": "application/ogg",
+          "size": 43927,
+          "ping": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/An1ji2.ogg",
+            "title": "File:An1ji2.ogg",
+            "ok": true,
+            "checks": [
+              {
+                "endpoint": "commons_api_imageinfo",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/An1ji2.ogg",
+                "error": null
+              },
+              {
+                "endpoint": "commons_rest_file",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/An1ji2.ogg",
+                "error": null
+              }
+            ],
+            "error": null
+          }
+        },
+        {
+          "title": "File:An1xi1.ogg",
+          "pageid": 23891846,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/An1xi1.ogg",
+          "mime": "application/ogg",
+          "size": 46980,
+          "ping": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/An1xi1.ogg",
+            "title": "File:An1xi1.ogg",
+            "ok": true,
+            "checks": [
+              {
+                "endpoint": "commons_api_imageinfo",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/An1xi1.ogg",
+                "error": null
+              },
+              {
+                "endpoint": "commons_rest_file",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/An1xi1.ogg",
+                "error": null
+              }
+            ],
+            "error": null
+          }
+        }
+      ],
+      "failed": []
+    },
+    "id": {
+      "category": "Category:Indonesian pronunciation",
+      "manifest_path": "data/language/wikipedia_media/id/manifest.json",
+      "verified_count": 5,
+      "failed_count": 0,
+      "verified": [
+        {
+          "title": "File:(pgu)-gelelo.wav",
+          "pageid": 180481446,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/%28pgu%29-gelelo.wav",
+          "mime": "audio/wav",
+          "size": 358590,
+          "ping": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/%28pgu%29-gelelo.wav",
+            "title": "File:(pgu)-gelelo.wav",
+            "ok": true,
+            "checks": [
+              {
+                "endpoint": "commons_api_imageinfo",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/%28pgu%29-gelelo.wav",
+                "error": null
+              },
+              {
+                "endpoint": "commons_rest_file",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/%28pgu%29-gelelo.wav",
+                "error": null
+              }
+            ],
+            "error": null
+          }
+        },
+        {
+          "title": "File:(pgu)-geri.wav",
+          "pageid": 180481445,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/%28pgu%29-geri.wav",
+          "mime": "audio/wav",
+          "size": 268476,
+          "ping": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/%28pgu%29-geri.wav",
+            "title": "File:(pgu)-geri.wav",
+            "ok": true,
+            "checks": [
+              {
+                "endpoint": "commons_api_imageinfo",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/%28pgu%29-geri.wav",
+                "error": null
+              },
+              {
+                "endpoint": "commons_rest_file",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/%28pgu%29-geri.wav",
+                "error": null
+              }
+            ],
+            "error": null
+          }
+        },
+        {
+          "title": "File:(pgu)-giam ma soat.wav",
+          "pageid": 180481450,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/%28pgu%29-giam_ma_soat.wav",
+          "mime": "audio/wav",
+          "size": 444612,
+          "ping": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/%28pgu%29-giam_ma_soat.wav",
+            "title": "File:(pgu)-giam ma soat.wav",
+            "ok": true,
+            "checks": [
+              {
+                "endpoint": "commons_api_imageinfo",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/%28pgu%29-giam_ma_soat.wav",
+                "error": null
+              },
+              {
+                "endpoint": "commons_rest_file",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/%28pgu%29-giam_ma_soat.wav",
+                "error": null
+              }
+            ],
+            "error": null
+          }
+        },
+        {
+          "title": "File:(pgu)-giam.wav",
+          "pageid": 180481449,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/%28pgu%29-giam.wav",
+          "mime": "audio/wav",
+          "size": 301244,
+          "ping": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/%28pgu%29-giam.wav",
+            "title": "File:(pgu)-giam.wav",
+            "ok": true,
+            "checks": [
+              {
+                "endpoint": "commons_api_imageinfo",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/%28pgu%29-giam.wav",
+                "error": null
+              },
+              {
+                "endpoint": "commons_rest_file",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/%28pgu%29-giam.wav",
+                "error": null
+              }
+            ],
+            "error": null
+          }
+        },
+        {
+          "title": "File:(pgu)-giatomal.wav",
+          "pageid": 180481451,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/%28pgu%29-giatomal.wav",
+          "mime": "audio/wav",
+          "size": 362688,
+          "ping": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/%28pgu%29-giatomal.wav",
+            "title": "File:(pgu)-giatomal.wav",
+            "ok": true,
+            "checks": [
+              {
+                "endpoint": "commons_api_imageinfo",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/%28pgu%29-giatomal.wav",
+                "error": null
+              },
+              {
+                "endpoint": "commons_rest_file",
+                "ok": true,
+                "status_code": 200,
+                "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/%28pgu%29-giatomal.wav",
+                "error": null
+              }
+            ],
+            "error": null
+          }
+        }
+      ],
+      "failed": []
+    }
+  },
+  "summary": {
+    "ok": 30,
+    "failed": 0,
+    "skipped": 0
+  }
+}

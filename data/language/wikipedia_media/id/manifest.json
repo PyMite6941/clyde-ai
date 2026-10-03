@@ -1,0 +1,152 @@
+{
+  "language": "id",
+  "category": "Category:Indonesian pronunciation",
+  "verified": [
+    {
+      "title": "File:(pgu)-gelelo.wav",
+      "pageid": 180481446,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/%28pgu%29-gelelo.wav",
+      "mime": "audio/wav",
+      "size": 358590,
+      "ping": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/%28pgu%29-gelelo.wav",
+        "title": "File:(pgu)-gelelo.wav",
+        "ok": true,
+        "checks": [
+          {
+            "endpoint": "commons_api_imageinfo",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/%28pgu%29-gelelo.wav",
+            "error": null
+          },
+          {
+            "endpoint": "commons_rest_file",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/%28pgu%29-gelelo.wav",
+            "error": null
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "title": "File:(pgu)-geri.wav",
+      "pageid": 180481445,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/%28pgu%29-geri.wav",
+      "mime": "audio/wav",
+      "size": 268476,
+      "ping": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/%28pgu%29-geri.wav",
+        "title": "File:(pgu)-geri.wav",
+        "ok": true,
+        "checks": [
+          {
+            "endpoint": "commons_api_imageinfo",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/%28pgu%29-geri.wav",
+            "error": null
+          },
+          {
+            "endpoint": "commons_rest_file",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/%28pgu%29-geri.wav",
+            "error": null
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "title": "File:(pgu)-giam ma soat.wav",
+      "pageid": 180481450,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/%28pgu%29-giam_ma_soat.wav",
+      "mime": "audio/wav",
+      "size": 444612,
+      "ping": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/%28pgu%29-giam_ma_soat.wav",
+        "title": "File:(pgu)-giam ma soat.wav",
+        "ok": true,
+        "checks": [
+          {
+            "endpoint": "commons_api_imageinfo",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/%28pgu%29-giam_ma_soat.wav",
+            "error": null
+          },
+          {
+            "endpoint": "commons_rest_file",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/%28pgu%29-giam_ma_soat.wav",
+            "error": null
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "title": "File:(pgu)-giam.wav",
+      "pageid": 180481449,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/%28pgu%29-giam.wav",
+      "mime": "audio/wav",
+      "size": 301244,
+      "ping": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/%28pgu%29-giam.wav",
+        "title": "File:(pgu)-giam.wav",
+        "ok": true,
+        "checks": [
+          {
+            "endpoint": "commons_api_imageinfo",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/%28pgu%29-giam.wav",
+            "error": null
+          },
+          {
+            "endpoint": "commons_rest_file",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/%28pgu%29-giam.wav",
+            "error": null
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "title": "File:(pgu)-giatomal.wav",
+      "pageid": 180481451,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/%28pgu%29-giatomal.wav",
+      "mime": "audio/wav",
+      "size": 362688,
+      "ping": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/%28pgu%29-giatomal.wav",
+        "title": "File:(pgu)-giatomal.wav",
+        "ok": true,
+        "checks": [
+          {
+            "endpoint": "commons_api_imageinfo",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/%28pgu%29-giatomal.wav",
+            "error": null
+          },
+          {
+            "endpoint": "commons_rest_file",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/%28pgu%29-giatomal.wav",
+            "error": null
+          }
+        ],
+        "error": null
+      }
+    }
+  ],
+  "failed": []
+}

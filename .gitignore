@@ -1,0 +1,20 @@
+# Large runtime outputs - these are generated, not tracked
+/runs/*
+/home/pymite6941/.cache/**
+
+# Personal data
+/.kaggle/**
+
+# Automation logs (but keep the md log)
+/automation/cron_output.log
+
+# But track the important files
+!/home/pymite6941/Clyde/datasets_used.md
+!/home/pymite6941/Clyde/automation/training_status.json
+!/home/pymite6941/Clyde/automation/run_log.txt
+
+# Notebook
+!.ipynb
+
+# Skills
+!.hermes/skills/

@@ -1,0 +1,152 @@
+{
+  "language": "es",
+  "category": "Category:Spanish pronunciation",
+  "verified": [
+    {
+      "title": "File:(spa)-Saviourofthe-a posteriori.flac",
+      "pageid": 164982910,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/%28spa%29-Saviourofthe-a_posteriori.flac",
+      "mime": "audio/flac",
+      "size": 135160,
+      "ping": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/%28spa%29-Saviourofthe-a_posteriori.flac",
+        "title": "File:(spa)-Saviourofthe-a posteriori.flac",
+        "ok": true,
+        "checks": [
+          {
+            "endpoint": "commons_api_imageinfo",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/%28spa%29-Saviourofthe-a_posteriori.flac",
+            "error": null
+          },
+          {
+            "endpoint": "commons_rest_file",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/%28spa%29-Saviourofthe-a_posteriori.flac",
+            "error": null
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "title": "File:(spa)-Saviourofthe-a priori.flac",
+      "pageid": 164982921,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/%28spa%29-Saviourofthe-a_priori.flac",
+      "mime": "audio/flac",
+      "size": 87615,
+      "ping": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/%28spa%29-Saviourofthe-a_priori.flac",
+        "title": "File:(spa)-Saviourofthe-a priori.flac",
+        "ok": true,
+        "checks": [
+          {
+            "endpoint": "commons_api_imageinfo",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/%28spa%29-Saviourofthe-a_priori.flac",
+            "error": null
+          },
+          {
+            "endpoint": "commons_rest_file",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/%28spa%29-Saviourofthe-a_priori.flac",
+            "error": null
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "title": "File:(spa)-Saviourofthe-a ultranza.flac",
+      "pageid": 165074115,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/%28spa%29-Saviourofthe-a_ultranza.flac",
+      "mime": "audio/flac",
+      "size": 112925,
+      "ping": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/%28spa%29-Saviourofthe-a_ultranza.flac",
+        "title": "File:(spa)-Saviourofthe-a ultranza.flac",
+        "ok": true,
+        "checks": [
+          {
+            "endpoint": "commons_api_imageinfo",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/%28spa%29-Saviourofthe-a_ultranza.flac",
+            "error": null
+          },
+          {
+            "endpoint": "commons_rest_file",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/%28spa%29-Saviourofthe-a_ultranza.flac",
+            "error": null
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "title": "File:(spa)-Saviourofthe-ab ovo.flac",
+      "pageid": 164982920,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/%28spa%29-Saviourofthe-ab_ovo.flac",
+      "mime": "audio/flac",
+      "size": 93631,
+      "ping": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/%28spa%29-Saviourofthe-ab_ovo.flac",
+        "title": "File:(spa)-Saviourofthe-ab ovo.flac",
+        "ok": true,
+        "checks": [
+          {
+            "endpoint": "commons_api_imageinfo",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/%28spa%29-Saviourofthe-ab_ovo.flac",
+            "error": null
+          },
+          {
+            "endpoint": "commons_rest_file",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/%28spa%29-Saviourofthe-ab_ovo.flac",
+            "error": null
+          }
+        ],
+        "error": null
+      }
+    },
+    {
+      "title": "File:(spa)-Saviourofthe-ad hoc.flac",
+      "pageid": 164982923,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/%28spa%29-Saviourofthe-ad_hoc.flac",
+      "mime": "audio/flac",
+      "size": 86599,
+      "ping": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/%28spa%29-Saviourofthe-ad_hoc.flac",
+        "title": "File:(spa)-Saviourofthe-ad hoc.flac",
+        "ok": true,
+        "checks": [
+          {
+            "endpoint": "commons_api_imageinfo",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/%28spa%29-Saviourofthe-ad_hoc.flac",
+            "error": null
+          },
+          {
+            "endpoint": "commons_rest_file",
+            "ok": true,
+            "status_code": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/%28spa%29-Saviourofthe-ad_hoc.flac",
+            "error": null
+          }
+        ],
+        "error": null
+      }
+    }
+  ],
+  "failed": []
+}

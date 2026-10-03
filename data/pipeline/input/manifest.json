@@ -1,0 +1,106 @@
+{
+  "kind": "tools_training_dataset",
+  "scraped_info": false,
+  "examples_path": "data/tools/training/tool_use_train.jsonl",
+  "schema_path": "data/tools/training/tool_schemas.json",
+  "example_count": 7,
+  "categories": [
+    "control",
+    "file_pipeline",
+    "google_plugins",
+    "mcp",
+    "plugins"
+  ],
+  "references_ok": [
+    {
+      "id": "mcp_docs",
+      "category": "mcp",
+      "url": "https://modelcontextprotocol.io/",
+      "title": "Model Context Protocol docs",
+      "ping": {
+        "url": "https://modelcontextprotocol.io/",
+        "ok": true,
+        "status_code": 200,
+        "error": null
+      }
+    },
+    {
+      "id": "mcp_spec_github",
+      "category": "mcp",
+      "url": "https://github.com/modelcontextprotocol/specification",
+      "title": "MCP specification repository",
+      "ping": {
+        "url": "https://github.com/modelcontextprotocol/specification",
+        "ok": true,
+        "status_code": 200,
+        "error": null
+      }
+    },
+    {
+      "id": "mcp_python_sdk",
+      "category": "mcp",
+      "url": "https://github.com/modelcontextprotocol/python-sdk",
+      "title": "MCP Python SDK",
+      "ping": {
+        "url": "https://github.com/modelcontextprotocol/python-sdk",
+        "ok": true,
+        "status_code": 200,
+        "error": null
+      }
+    },
+    {
+      "id": "google_plugins_workspace",
+      "category": "google_plugins",
+      "url": "https://developers.google.com/workspace/add-ons/overview",
+      "title": "Google Workspace Add-ons overview",
+      "ping": {
+        "url": "https://developers.google.com/workspace/add-ons/overview",
+        "ok": true,
+        "status_code": 200,
+        "error": null
+      }
+    },
+    {
+      "id": "google_apps_script",
+      "category": "google_plugins",
+      "url": "https://developers.google.com/apps-script",
+      "title": "Google Apps Script",
+      "ping": {
+        "url": "https://developers.google.com/apps-script",
+        "ok": true,
+        "status_code": 200,
+        "error": null
+      }
+    },
+    {
+      "id": "google_gemini_extensions",
+      "category": "google_plugins",
+      "url": "https://ai.google.dev/gemini-api/docs/function-calling",
+      "title": "Gemini function calling",
+      "ping": {
+        "url": "https://ai.google.dev/gemini-api/docs/function-calling",
+        "ok": true,
+        "status_code": 200,
+        "error": null
+      }
+    },
+    {
+      "id": "openai_function_calling",
+      "category": "function_calling",
+      "url": "https://platform.openai.com/docs/guides/function-calling",
+      "title": "OpenAI function calling guide",
+      "ping": {
+        "url": "https://platform.openai.com/docs/guides/function-calling",
+        "ok": true,
+        "status_code": 200,
+        "error": null
+      }
+    }
+  ],
+  "references_failed": [],
+  "summary": {
+    "examples": 7,
+    "refs_ok": 7,
+    "refs_failed": 0
+  }
+}

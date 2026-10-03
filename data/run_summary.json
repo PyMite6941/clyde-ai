@@ -1,0 +1,51 @@
+{
+  "media": {
+    "downloaded": 30,
+    "skipped": 0,
+    "failed": 0,
+    "by_language": {
+      "en": {
+        "downloaded": 5,
+        "skipped": 0,
+        "failed": 0
+      },
+      "es": {
+        "downloaded": 5,
+        "skipped": 0,
+        "failed": 0
+      },
+      "fr": {
+        "downloaded": 5,
+        "skipped": 0,
+        "failed": 0
+      },
+      "de": {
+        "downloaded": 5,
+        "skipped": 0,
+        "failed": 0
+      },
+      "zh": {
+        "downloaded": 5,
+        "skipped": 0,
+        "failed": 0
+      },
+      "id": {
+        "downloaded": 5,
+        "skipped": 0,
+        "failed": 0
+      }
+    }
+  },
+  "tools": {
+    "examples": 7,
+    "refs_ok": 7,
+    "refs_failed": 0,
+    "path": "data/tools/training/tool_use_train.jsonl"
+  },
+  "pipeline": {
+    "ok": 7,
+    "failed": 0,
+    "training_pack": "data/pipeline/output/training_pack.jsonl",
+    "training_pack_records": 8
+  }
+}

@@ -1,0 +1,1 @@
+{"id": "sample_1", "category": "mcp", "messages": [{"role": "user", "content": "List MCP tools on server demo."}, {"role": "assistant", "content": "Listing tools.", "tool_calls": [{"id": "c1", "type": "function", "function": {"name": "mcp_list_tools", "arguments": "{\"server\":\"demo\"}"}}]}], "tools": []}
