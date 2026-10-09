@@ -5,16 +5,36 @@
 # Personal data
 /.kaggle/**
 
-# Automation logs (but keep the md log)
+# Training data - contains PII and sensitive content, NOT for repo
+training_data/**
+data/**
+
+# Automation logs (keep the md log for reference)
 /automation/cron_output.log
 
-# But track the important files
+# But track the important framework files
 !/home/pymite6941/Clyde/datasets_used.md
 !/home/pymite6941/Clyde/automation/training_status.json
 !/home/pymite6941/Clyde/automation/run_log.txt
 
-# Notebook
+# Notebook files (track the notebook itself but not __pycache__)
 !.ipynb
+/__pycache__/
 
-# Skills
-!.hermes/skills/
+# Personal profile configs
+/.hermes/**
+
+# Cron job files - scheduling config only, not runtime logs
+/cron_logs/**
+
+# Automation scripts (track the .sh files if vetted, but logs are personal)
+/automation/__pycache__/**
+
+# Interface generated outputs
+/interfaces/**/*.html.asc
+/interfaces/**/*.json.cache
+
+# Keep these interface files tracked
+!/home/pymite6941/Clyde/interfaces/design_spec.md
+!/home/pymite6941/Clyde/interfaces/interface_guide.md
+!/home/pymite6941/Clyde/interfaces/sample_interface.html
