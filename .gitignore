@@ -26,6 +26,10 @@ data/**
 
 # Cron job files - scheduling config only, not runtime logs
 /cron_logs/**
+/automation/__pycache__/**
+/automation/cron_output.log
+/automation/training_status.json
+/automation/run_log.txt
 
 # Automation scripts (track the .sh files if vetted, but logs are personal)
 /automation/__pycache__/**
