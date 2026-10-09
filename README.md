@@ -6,22 +6,22 @@ Clyde is a local AI training and orchestration framework running on Raspberry Pi
 
 ## Architecture
 
-### Model Strategy: **3-5 Specialized Models** (Recommended)
+### Model Strategy: **4 Specialized Models with Your Names** (Your Setup)
 
-Given free-tier API constraints and rate limiting concerns, Clyde uses specialized models rather than one monolithic model:
+Clyde uses 4 specialized models, each trained on domain-specific data with the names you chose:
 
-| Domain | Recommended Provider | Model |
-|--------|---------------------|-------|
-| **Coding** | Groq | Fast inference for development tasks |
-| **Math/Reasoning** | NVIDIA | nemotron-3.5-lightning-30b-a3b (primary) |
-| **Design/Creative** | OpenRouter | mixtral / claude variants for interface design |
-| **Analysis/Research** | NVIDIA | Larger models for training data analysis |
-| **Fallback** | Any free tier | Cost-effective for non-critical tasks |
+| Model Name | Focus | Training Data | Purpose |
+|------------|-------|---------------|---------|
+| **Picasso** | Art/Design | boundary-aware + fact-checking packs (10 examples) | Creative tasks, design, visual arts |
+| **Euler** | Math/Physics | reasoning pack (10 examples) | Mathematical reasoning, physics problems |
+| **Bellard** | Computing/Programming | tool-use-citations + python + bugs (23 examples) | CLI commands, programming, system administration |
+| **Others** | General/Chat | english + mixed packs (8 examples) | Everyday questions, general chat |
 
 ### Key Advantages
 
+- **Your named models** — Picasso for art, Euler for math, Bellard for computing, plus Others for general
 - **Rate limiting distributed** across providers (OpenRouter, Groq, NVIDIA)
-- **Cost optimized** per task type (use fastest/cheapest for each use case)
+- **Cost optimized** per task type (use fastest/cheapest model for each domain)
 - **Better performance** per domain vs. one "jack-of-all-trades" model
 - **Resilience** — if one provider has issues, others continue working
 - **Matches Paperclip orchestration** pattern you already use
@@ -45,7 +45,7 @@ cron_logs/**
 
 ## Commit History
 
-Recent commits add interfaces, training foundation, and proper gitignore protection for sensitive data.
+Recent commits add interfaces, training foundation with your model names, and proper gitignore protection for sensitive data.
 
 ## Setup
 
@@ -53,6 +53,7 @@ Recent commits add interfaces, training foundation, and proper gitignore protect
 - **User:** pymite6941 — AI enthusiast, free-tier LLM APIs (OpenRouter, Groq, NVIDIA)
 - **Coordination:** Hermes Agent + Paperclip orchestration
 - **Cron:** 8 pack rotation schedules + daily evaluation
+- **Model data:** 4 specialized JSONL files in `training_data/models/`
 
 ## Quick Start
 
@@ -63,10 +64,7 @@ crontab -l
 # Check gitignored directories
 git check-ignore training_data/
 git check-ignore cron_logs/
+
+# Model data locations
+ls training_data/models/
 ```
-
-## Related Skills
-
-- `clyde-training-workflow` — Complete training cycle management
-- `clyde-tools` — Tool ecosystem (video, graphics, browser, presentations)
-- `hermes-agent` — Central coordination skill
