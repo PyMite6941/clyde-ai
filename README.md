@@ -6,65 +6,71 @@ Clyde is a local AI training and orchestration framework running on Raspberry Pi
 
 ## Architecture
 
-### Model Strategy: **4 Specialized Models with Your Names** (Your Setup)
+### Model Fleet: **4 Specialized Models with Your Names** (Your Design)
 
 Clyde uses 4 specialized models, each trained on domain-specific data with the names you chose:
 
-| Model Name | Focus | Training Data | Purpose |
-|------------|-------|---------------|---------|
-| **Picasso** | Art/Design | boundary-aware + fact-checking packs (10 examples) | Creative tasks, design, visual arts |
-| **Euler** | Math/Physics | reasoning pack (10 examples) | Mathematical reasoning, physics problems |
-| **Bellard** | Computing/Programming | tool-use-citations + python + bugs (23 examples) | CLI commands, programming, system administration |
-| **Others** | General/Chat | english + mixed packs (8 examples) | Everyday questions, general chat |
+| Model Name | Focus | Training Data | Specialization |
+|------------|-------|---------------|----------------|
+| **Picasso** | Art/Design | boundary-aware + fact-checking packs (10 examples) | Creative tasks, design, visual arts, aesthetic judgment |
+| **Euler** | Math/Physics | reasoning pack (10 examples) | Mathematical reasoning, physics problems, logical inference |
+| **Bellard** | Computing/Programming | tool-use-citations + python + bugs (23 examples) | CLI commands, programming, system administration, debugging |
+| **Others** | General/Chat | english + mixed packs (8 examples) | Everyday questions, general conversation, creative writing |
 
-### Key Advantages
+### Model Fleet Design
 
-- **Your named models** — Picasso for art, Euler for math, Bellard for computing, plus Others for general
-- **Rate limiting distributed** across providers (OpenRouter, Groq, NVIDIA)
-- **Cost optimized** per task type (use fastest/cheapest model for each domain)
-- **Better performance** per domain vs. one "jack-of-all-trades" model
-- **Resilience** — if one provider has issues, others continue working
-- **Matches Paperclip orchestration** pattern you already use
+Each model is trained on carefully split data to develop domain expertise:
 
-### Git Protection
+- **Picasso** (10 examples) — Art and design reasoning, trained on boundary-aware and fact-checking domain knowledge
+- **Euler** (10 examples) — Mathematical and physical reasoning, trained on logical inference and puzzle-solving patterns
+- **Bellard** (23 examples) — Computing and computer science, trained on tool usage, programming questions, and system administration tasks
+- **Others** (8 examples) — General conversational ability, trained on English rewriting and mixed-topic questions
 
-Training data and cron logs are gitignored to prevent PII/secret leaking:
+### Key Fleet Characteristics
 
-```gitignore
-# Training data - contains PII and sensitive content, NOT for repo
-training_data/**
+- **Four named models** — Picasso, Euler, Bellard, Others — each with a distinct domain focus
+- **Domain-specialized** — each model develops expertise in its assigned area through targeted training data
+- **Complementary coverage** — together they cover art/design, math/physics, computing, and general conversation
+- **Training data is gitignored** — `training_data/` contains your model training sets and stays local
 
-# Cron logs - runtime outputs, not tracked
-cron_logs/**
+### Model Data Location
 
-# Automation runtime logs
-/automation/cron_output.log
-/automation/training_status.json
-/automation/run_log.txt
+Training data for each model is stored in `training_data/models/`:
+
+```
+training_data/models/
+├── picasso.jsonl     — 10 art/design examples
+├── euler.jsonl       — 10 math/physics examples
+├── bellard.jsonl     — 23 computing/programming examples
+└── others.jsonl      — 8 general chat examples
 ```
 
-## Commit History
-
-Recent commits add interfaces, training foundation with your model names, and proper gitignore protection for sensitive data.
-
-## Setup
-
-- **Host:** Raspberry Pi (Linux 6.18.50+rpt-rpi-v8)
-- **User:** pymite6941 — AI enthusiast, free-tier LLM APIs (OpenRouter, Groq, NVIDIA)
-- **Coordination:** Hermes Agent + Paperclip orchestration
-- **Cron:** 8 pack rotation schedules + daily evaluation
-- **Model data:** 4 specialized JSONL files in `training_data/models/`
+All training data is gitignored to keep sensitive content and PII off GitHub.
 
 ## Quick Start
 
 ```bash
-# View crontab
-crontab -l
+# View model training data
+ls training_data/models/
 
 # Check gitignored directories
 git check-ignore training_data/
-git check-ignore cron_logs/
-
-# Model data locations
-ls training_data/models/
 ```
+
+## Commit History
+
+Recent commits add your 4-model fleet design, interface documentation, and gitignore protections.
+
+## Setup
+
+- **Host:** Raspberry Pi (Linux 6.18.50+rpt-rpi-v8)
+- **User:** pymite6941 — AI enthusiast designing specialized model fleet
+- **Coordination:** Hermes Agent + Paperclip orchestration
+- **Model data:** 4 specialized JSONL files in `training_data/models/`
+- **Cron:** 8 pack rotation schedules + daily evaluation
+
+## Related
+
+- `clyde-training-workflow` — Complete training cycle management
+- `clyde-tools` — Tool ecosystem (video, graphics, browser, presentations)
+- `hermes-agent` — Central coordination skill
