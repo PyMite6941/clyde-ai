@@ -2,7 +2,28 @@
   "version": "1.0",
   "created": "2026-10-03T03:37:33",
   "last_run": null,
-  "runs": [],
+  "runs": [
+    {
+      "run_name": "eval-2026-10-09_11-25-09",
+      "start_time": 1791559509.6439545,
+      "end_time": 1791559509.6444721,
+      "track": "eval",
+      "data_pack": "eval",
+      "steps": 0,
+      "final_loss": "N/A",
+      "observations": "Evaluated 5/5 benchmarks"
+    },
+    {
+      "run_name": "eval-2026-10-09_20-00-01",
+      "start_time": 1791590402.0119627,
+      "end_time": 1791590402.0126817,
+      "track": "eval",
+      "data_pack": "eval",
+      "steps": 0,
+      "final_loss": "N/A",
+      "observations": "Evaluated 5/5 benchmarks"
+    }
+  ],
   "current_run": null,
   "settings": {
     "default_track": "A",
